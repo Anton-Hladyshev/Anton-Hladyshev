@@ -12,6 +12,6 @@ I am passioned in developping different digital tools and student projects mostl
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/fastapi.svg" alt="Fastapi" width="40" height="40" margin="10px">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redis.svg" alt="Redis" width="40" height="40" margin="10px">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="mongodb" width="40" height="40" margin="10px">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MySql" width="40" height="40" margin="10px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySql" width="40" height="40" margin="10px">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" alt="PostgresSql" width="40" height="40" margin="10px">
 </p>
