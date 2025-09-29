@@ -6,7 +6,7 @@ I am a ukrainian🇺🇦 student  in the departement of informatic in IUT of Lim
 I am a backend developper. Love building applications on Python and FastAPI. Currently i'am growwing to a fullstack, learning JavaScript and Node.js with Vue.js.
 
 ## **🛠 My tech stack :**
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,FastAPI,js,html,css)](https://skillicons.dev)
 
 ## 🛠 Stats 
 
