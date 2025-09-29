@@ -17,6 +17,6 @@ I am a backend developper. Love building applications on Python and FastAPI. Cur
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" alt="PostgresSql" width="40" height="40" margin="10px">
 </p>
 
-## 🛠 Skills 
+## 🛠 Stats 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anton-Hladyshev&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anton-Hladyshev&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anton-Hladyshev&theme=2077)
