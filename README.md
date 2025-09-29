@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Anton Hladyshev
 
 I am a ukrainian🇺🇦 student  in the departement of informatic in IUT of Limusin in Limoges, France🇫🇷
-I am passioned in developping different digital tools and student projects mostly on Python
 
+## 🚀 About Me
+I am a backend developper. Love building applications on Python and FastAPI. Currently i'am growwing to a fullstack, learning JavaScript and Node.js with Vue.js.
 
 ## **🛠 My tech stack :**
 <p align="left">
@@ -15,3 +16,7 @@ I am passioned in developping different digital tools and student projects mostl
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySql" width="40" height="40" margin="10px">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" alt="PostgresSql" width="40" height="40" margin="10px">
 </p>
+
+## 🛠 Skills 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anton-Hladyshev&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anton-Hladyshev&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anton-Hladyshev&theme=2077)
